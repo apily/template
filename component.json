@@ -1,0 +1,13 @@
+{
+  "name": "template",
+  "repo": "apily/template",
+  "version": "0.0.1",
+  "description": "Template engine",
+  "keywords": ["template"],
+  "scripts": ["index.js"],
+  "dependencies": {},
+  "development": {
+    "component/assert": "*"
+  },
+  "license": "MIT"
+}
